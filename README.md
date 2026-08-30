@@ -1,5 +1,5 @@
 <!-- Header Image -->
-<img src="link_to_your_header_image.png" alt="Header Banner" width="100%">
+<img src="bannerpic.gif" alt="Header Banner" width="100%">
 
 <div align="center">
 
