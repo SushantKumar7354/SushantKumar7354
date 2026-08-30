@@ -1,54 +1,141 @@
 <!-- Header Image -->
+
 <img src="bannerpic.gif" alt="Header Banner" width="100%">
 
 <div align="center">
 
-<!-- Typing Animation (Generates dynamically) -->
+# 👋 Hi, I'm Sushant Kumar
+
+### Software Developer | DSA Enthusiast | AI/ML Explorer
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5A9AF0&center=true&vCenter=true&width=435&lines=Building+with+Code;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=5A9AF0&center=true&vCenter=true&width=600&lines=Building+High-Performance+Software;Solving+DSA+Problems;Exploring+AI%2FML;Building+Real-World+Systems" alt="Typing SVG" />
 </a>
 
-<!-- Social Badges (Uses shields.io) -->
-<a href="https://www.linkedin.com/in/sushant-kumar-iitp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/sushant-kumar-iitp/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+
+<a href="https://codeforces.com/profile/Sushantkumar">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+</a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🚀 Full-Stack Developer who enjoys building things end to end...
-* 🛠️ Currently exploring real-time collaboration tools...
-* 🌱 Always leveling up my skills across the stack
-* 💬 Ask me about JavaScript, Python, or building apps
-* 📫 Reach me on [LinkedIn](your_url) or [X](your_url)
-
----
-
-### 🛠️ Tech Stack
-
-<!-- Tech Badges -->
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<!-- Add more badges from shields.io here -->
+* 🎓 B.Tech student in **Electrical & Electronics Engineering at IIT Patna**
+* 💻 Passionate about **Software Development and Data Structures & Algorithms**
+* 🤖 Interested in **Machine Learning, Predictive Modeling and intelligent systems**
+* ⚡ Enjoy building **high-performance and practical software**
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description |
-|---|---|
-| [💻 Collaborative Code Editor](link_to_repo) | A real-time, multi-user code editor built with React... |
-| [📰 Fake News Detector — BERT](link_to_repo) | An NLP project that fine-tunes `bert-base-uncased`... |
+### 💻 Programming
 
-<br>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+
+### 🧠 Core CS
+
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA">
+<img src="https://img.shields.io/badge/OOP-4B0082?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/System_Design-2E8B57?style=for-the-badge" alt="System Design">
+
+### 🤖 Data & Machine Learning
+
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+
+### 🔧 Tools & Technologies
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge" alt="IoT">
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 LineTwin — Spatiotemporal Digital Twin for Assembly Lines
+
+A digital-twin project focused on understanding assembly-line behavior and using predictive insights to identify potential issues before defects happen.
+
+**Tech:** Python • Machine Learning • Predictive Analytics • Streamlit
+
+**Accenture Innovation Challenge 2026 — Round 2**
+
+---
+
+### 🖼️ AuraDedup — High-Performance Local Image Deduplication Engine
+
+A privacy-first, offline application that scans local directories and clusters visually similar photos without relying on cloud services.
+
+**Tech:** C++ • Python • Pandas • Matplotlib • Perceptual Hashing • VP-Trees
+
+* Implemented **dHash-based perceptual hashing**
+* Used **64-bit fingerprints** and hardware-level bitwise operations for image comparison
+* Built a **Vantage-Point Tree** with triangle-inequality pruning
+* Added a Python analytics pipeline for deduplication and storage-recovery metrics
+
+---
+
+### 🌦️ HydroMind — Weather-Aware Smart Irrigation System
+
+An IoT-based smart-agriculture system that combines environmental sensors, weather data and machine learning to optimize irrigation.
+
+**Tech:** Python • NumPy • Pandas • Machine Learning • OpenWeather API • IoT
+
+* Built a regression model to predict **soil-moisture threshold timing**
+* Designed adaptive telemetry polling and automated pump control
+* Integrated weather data through a **REST API**
+* Created a real-time dashboard for sensor telemetry and irrigation status
+
+---
+
+
+
+## 📚 Currently Learning & Building
+
+```text
+Data Structures & Algorithms
+            ↓
+Software Engineering
+            ↓
+Machine Learning & Predictive Modeling
+            ↓
+System Design
+            ↓
+Real-World Engineering Projects
+```
+
+---
+
+
+## 🤝 Let's Connect
+
+I'm interested in **software engineering, DSA, AI/ML, competitive programming, hackathons and building impactful technical projects**.
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+<a href="https://www.linkedin.com/in/sushant-kumar-iitp/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 </div>
 
-<!-- Footer Image -->
-<img src="link_to_your_footer_image.png" alt="Footer Banner" width="100%">
+<img src="footerpic.gif" alt="Footer Banner" width="100%">
