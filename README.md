@@ -9,8 +9,7 @@
 </a>
 
 <!-- Social Badges (Uses shields.io) -->
-<a href="your_linkedin_url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="your_x_url"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.linkedin.com/in/sushant-kumar-iitp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
 
