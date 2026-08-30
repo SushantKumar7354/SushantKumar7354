@@ -40,32 +40,40 @@
 
 ### 💻 Programming
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+</p>
 
 ### 🧠 Core CS
 
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" alt="DSA">
-<img src="https://img.shields.io/badge/OOP-6A0DAD?style=for-the-badge" alt="OOP">
-<img src="https://img.shields.io/badge/System_Design-2E8B57?style=for-the-badge" alt="System Design">
+<p>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-6A0DAD?style=for-the-badge">
+<img src="https://img.shields.io/badge/System_Design-2E8B57?style=for-the-badge">
+</p>
 
 ### 🤖 Data & Machine Learning
 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<p>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+</p>
 
 ### 🔧 Tools & Platforms
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge" alt="IoT">
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge">
+</p>
 
 ---
 
