@@ -31,7 +31,7 @@
 
 * 🎓 B.Tech student in **Electrical & Electronics Engineering at IIT Patna**
 * 💻 Passionate about **Software Development and Data Structures & Algorithms**
-* 🤖 Interested in **Machine Learning, Predictive Modeling and intelligent systems**
+* 🤖 Interested in **Machine Learning**
 * ⚡ Enjoy building **high-performance and practical software**
 
 ---
@@ -52,7 +52,6 @@
 <p>
 <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge">
 <img src="https://img.shields.io/badge/OOP-6A0DAD?style=for-the-badge">
-<img src="https://img.shields.io/badge/System_Design-2E8B57?style=for-the-badge">
 </p>
 
 ### 🤖 Data & Machine Learning
@@ -69,10 +68,8 @@
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
-<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge">
 </p>
 
 ---
@@ -113,8 +110,6 @@ Data Structures & Algorithms
 Software Engineering
             ↓
 Machine Learning & Predictive Modeling
-            ↓
-System Design
             ↓
 Real-World Engineering Projects
 ```
