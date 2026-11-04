@@ -89,18 +89,6 @@ A digital-twin project focused on understanding assembly-line behavior and using
 
 ---
 
-### 🖼️ AuraDedup — High-Performance Local Image Deduplication Engine
-
-A privacy-first, offline application that scans local directories and clusters visually similar photos without relying on cloud services.
-
-**Tech:** C++ • Python • Pandas • Matplotlib • Perceptual Hashing • VP-Trees
-
-* Implemented **dHash-based perceptual hashing**
-* Used **64-bit fingerprints** and hardware-level bitwise operations for image comparison
-* Built a **Vantage-Point Tree** with triangle-inequality pruning
-* Added a Python analytics pipeline for deduplication and storage-recovery metrics
-
----
 
 ### 🌦️ HydroMind — Weather-Aware Smart Irrigation System
 
